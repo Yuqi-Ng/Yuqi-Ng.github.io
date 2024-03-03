@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/yuqi-huang-37524b289/"}
   - {title: Github, icon: github, url: "https://github.com/Yuqi-Ng"}
   - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Yuqi-Huang-21"}
-  - {title: Bilibili, icon: <i class="fa-brands fa-bilibili"></i>, url: "https://space.bilibili.com/352614368"}
+  - {title: Bilibili, icon: bilibili, url: "https://space.bilibili.com/352614368"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
