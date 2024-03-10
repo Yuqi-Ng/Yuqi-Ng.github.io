@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/yuqi-huang-37524b289/"}
   - {title: Github, icon: github, url: "https://github.com/Yuqi-Ng"}
-  - {title: Researchgate, icon: ['fab' 'researchgate'], url: "https://www.researchgate.net/profile/Yuqi-Huang-21"}
+  - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Yuqi-Huang-21"}
   - {title: Bilibili, icon: , url: "https://space.bilibili.com/352614368"}
 
 comments:
